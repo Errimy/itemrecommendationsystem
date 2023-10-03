@@ -13,3 +13,6 @@ This section delves into a deeper understanding of the dataset through data visu
 ### Part 3: Machine Learning
 
 In the final section, the recommendation system is developed using SciPy and Surprise. SciPy is a library in Python used for scientific and technical computing, while Surprise is specifically designed for building and analyzing recommendation systems. The collaborative filtering technique is applied here, where the system makes predictions by seeking similarities between users. This machine learning approach enables the system to generate accurate recommendations.
+
+### Link to Download the Model
+Drive Link : https://drive.google.com/file/d/1K7DFHMLl1WI1Phsarl9etjFmQNoDbI92/view?usp=sharing
